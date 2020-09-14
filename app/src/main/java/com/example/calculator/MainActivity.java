@@ -146,6 +146,7 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onClick(View v) {
                textView.setText(null);
+               textview1.setText(null);
 
             }
         });
